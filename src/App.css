@@ -1,0 +1,10 @@
+.main-content{
+ 
+  height: 500px;
+  width: 600px;
+  display: grid;
+  background-color: rgb(163, 139, 139);
+  vertical-align: middle;
+  align-items: center;
+  justify-content: center;
+}
