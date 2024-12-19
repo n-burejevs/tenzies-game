@@ -1,9 +1,15 @@
 #root{
-  background-color: black;
+  /*black bg, fills whole page*/
+ /* background-color: black;
   position: fixed;
   top: 0;
   left: 0;
   bottom: 0;
   right: 0;
-  overflow: auto;
+  overflow: auto;*/
+  
+  /*flexbox to center the container for the game*/
+ /* display: flex;
+  justify-content: center;
+  align-items: center;*/
 }
